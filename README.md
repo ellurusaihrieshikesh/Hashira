@@ -1,4 +1,4 @@
-Shamir Secret Sharing
+Hashira Shamir Secret Sharing
 =====================
 
 This project implements Shamir's Secret Sharing algorithm in Java. It allows you to reconstruct a secret from a set of shares, each stored in JSON files with values in various bases.
